@@ -1,0 +1,2401 @@
+6609
+
+Epoch [1/200]
+
+Training..
+Epoch [1/200], Step [100/372], Loss: 0.0399
+Epoch [1/200], Step [200/372], Loss: 0.0385
+Epoch [1/200], Step [300/372], Loss: 0.0365
+
+Validation..
+Training loss for epoch 1 is 0.0351
+Validation loss for epoch 1 is 0.0341
+Epoch 1 took 0.11 minutes
+
+Epoch [2/200]
+
+Training..
+Epoch [2/200], Step [100/372], Loss: 0.0310
+Epoch [2/200], Step [200/372], Loss: 0.0315
+Epoch [2/200], Step [300/372], Loss: 0.0289
+
+Validation..
+Training loss for epoch 2 is 0.0298
+Validation loss for epoch 2 is 0.0301
+Epoch 2 took 0.08 minutes
+
+Epoch [3/200]
+
+Training..
+Epoch [3/200], Step [100/372], Loss: 0.0268
+Epoch [3/200], Step [200/372], Loss: 0.0271
+Epoch [3/200], Step [300/372], Loss: 0.0276
+
+Validation..
+Training loss for epoch 3 is 0.0272
+Validation loss for epoch 3 is 0.0294
+Epoch 3 took 0.08 minutes
+
+Epoch [4/200]
+
+Training..
+Epoch [4/200], Step [100/372], Loss: 0.0242
+Epoch [4/200], Step [200/372], Loss: 0.0258
+Epoch [4/200], Step [300/372], Loss: 0.0260
+
+Validation..
+Training loss for epoch 4 is 0.0254
+Validation loss for epoch 4 is 0.0285
+Epoch 4 took 0.08 minutes
+
+Epoch [5/200]
+
+Training..
+Epoch [5/200], Step [100/372], Loss: 0.0244
+Epoch [5/200], Step [200/372], Loss: 0.0235
+Epoch [5/200], Step [300/372], Loss: 0.0233
+
+Validation..
+Training loss for epoch 5 is 0.0232
+Validation loss for epoch 5 is 0.0261
+Epoch 5 took 0.09 minutes
+
+Epoch [6/200]
+
+Training..
+Epoch [6/200], Step [100/372], Loss: 0.0227
+Epoch [6/200], Step [200/372], Loss: 0.0242
+Epoch [6/200], Step [300/372], Loss: 0.0227
+
+Validation..
+Training loss for epoch 6 is 0.0222
+Validation loss for epoch 6 is 0.0250
+Epoch 6 took 0.09 minutes
+
+Epoch [7/200]
+
+Training..
+Epoch [7/200], Step [100/372], Loss: 0.0178
+Epoch [7/200], Step [200/372], Loss: 0.0193
+Epoch [7/200], Step [300/372], Loss: 0.0195
+
+Validation..
+Training loss for epoch 7 is 0.0201
+Validation loss for epoch 7 is 0.0229
+Epoch 7 took 0.08 minutes
+
+Epoch [8/200]
+
+Training..
+Epoch [8/200], Step [100/372], Loss: 0.0179
+Epoch [8/200], Step [200/372], Loss: 0.0194
+Epoch [8/200], Step [300/372], Loss: 0.0196
+
+Validation..
+Training loss for epoch 8 is 0.0191
+Validation loss for epoch 8 is 0.0223
+Epoch 8 took 0.09 minutes
+
+Epoch [9/200]
+
+Training..
+Epoch [9/200], Step [100/372], Loss: 0.0177
+Epoch [9/200], Step [200/372], Loss: 0.0176
+Epoch [9/200], Step [300/372], Loss: 0.0173
+
+Validation..
+Training loss for epoch 9 is 0.0180
+Validation loss for epoch 9 is 0.0222
+Epoch 9 took 0.09 minutes
+
+Epoch [10/200]
+
+Training..
+Epoch [10/200], Step [100/372], Loss: 0.0161
+Epoch [10/200], Step [200/372], Loss: 0.0177
+Epoch [10/200], Step [300/372], Loss: 0.0172
+
+Validation..
+Training loss for epoch 10 is 0.0172
+Validation loss for epoch 10 is 0.0242
+Epoch 10 took 0.09 minutes
+
+Epoch [11/200]
+
+Training..
+Epoch [11/200], Step [100/372], Loss: 0.0183
+Epoch [11/200], Step [200/372], Loss: 0.0172
+Epoch [11/200], Step [300/372], Loss: 0.0166
+
+Validation..
+Training loss for epoch 11 is 0.0166
+Validation loss for epoch 11 is 0.0222
+Epoch 11 took 0.09 minutes
+
+Epoch [12/200]
+
+Training..
+Epoch [12/200], Step [100/372], Loss: 0.0177
+Epoch [12/200], Step [200/372], Loss: 0.0158
+Epoch [12/200], Step [300/372], Loss: 0.0160
+
+Validation..
+Training loss for epoch 12 is 0.0158
+Validation loss for epoch 12 is 0.0205
+Epoch 12 took 0.09 minutes
+
+Epoch [13/200]
+
+Training..
+Epoch [13/200], Step [100/372], Loss: 0.0135
+Epoch [13/200], Step [200/372], Loss: 0.0150
+Epoch [13/200], Step [300/372], Loss: 0.0147
+
+Validation..
+Training loss for epoch 13 is 0.0150
+Validation loss for epoch 13 is 0.0203
+Epoch 13 took 0.08 minutes
+
+Epoch [14/200]
+
+Training..
+Epoch [14/200], Step [100/372], Loss: 0.0144
+Epoch [14/200], Step [200/372], Loss: 0.0143
+Epoch [14/200], Step [300/372], Loss: 0.0135
+
+Validation..
+Training loss for epoch 14 is 0.0137
+Validation loss for epoch 14 is 0.0227
+Epoch 14 took 0.08 minutes
+
+Epoch [15/200]
+
+Training..
+Epoch [15/200], Step [100/372], Loss: 0.0132
+Epoch [15/200], Step [200/372], Loss: 0.0137
+Epoch [15/200], Step [300/372], Loss: 0.0143
+
+Validation..
+Training loss for epoch 15 is 0.0134
+Validation loss for epoch 15 is 0.0258
+Epoch 15 took 0.09 minutes
+
+Epoch [16/200]
+
+Training..
+Epoch [16/200], Step [100/372], Loss: 0.0133
+Epoch [16/200], Step [200/372], Loss: 0.0127
+Epoch [16/200], Step [300/372], Loss: 0.0133
+
+Validation..
+Training loss for epoch 16 is 0.0132
+Validation loss for epoch 16 is 0.0198
+Epoch 16 took 0.09 minutes
+
+Epoch [17/200]
+
+Training..
+Epoch [17/200], Step [100/372], Loss: 0.0131
+Epoch [17/200], Step [200/372], Loss: 0.0118
+Epoch [17/200], Step [300/372], Loss: 0.0119
+
+Validation..
+Training loss for epoch 17 is 0.0120
+Validation loss for epoch 17 is 0.0183
+Epoch 17 took 0.08 minutes
+
+Epoch [18/200]
+
+Training..
+Epoch [18/200], Step [100/372], Loss: 0.0114
+Epoch [18/200], Step [200/372], Loss: 0.0110
+Epoch [18/200], Step [300/372], Loss: 0.0109
+
+Validation..
+Training loss for epoch 18 is 0.0111
+Validation loss for epoch 18 is 0.0166
+Epoch 18 took 0.07 minutes
+
+Epoch [19/200]
+
+Training..
+Epoch [19/200], Step [100/372], Loss: 0.0124
+Epoch [19/200], Step [200/372], Loss: 0.0118
+Epoch [19/200], Step [300/372], Loss: 0.0122
+
+Validation..
+Training loss for epoch 19 is 0.0120
+Validation loss for epoch 19 is 0.0222
+Epoch 19 took 0.09 minutes
+
+Epoch [20/200]
+
+Training..
+Epoch [20/200], Step [100/372], Loss: 0.0105
+Epoch [20/200], Step [200/372], Loss: 0.0122
+Epoch [20/200], Step [300/372], Loss: 0.0123
+
+Validation..
+Training loss for epoch 20 is 0.0121
+Validation loss for epoch 20 is 0.0197
+Epoch 20 took 0.08 minutes
+
+Epoch [21/200]
+
+Training..
+Epoch [21/200], Step [100/372], Loss: 0.0109
+Epoch [21/200], Step [200/372], Loss: 0.0107
+Epoch [21/200], Step [300/372], Loss: 0.0113
+
+Validation..
+Training loss for epoch 21 is 0.0113
+Validation loss for epoch 21 is 0.0244
+Epoch 21 took 0.09 minutes
+
+Epoch [22/200]
+
+Training..
+Epoch [22/200], Step [100/372], Loss: 0.0106
+Epoch [22/200], Step [200/372], Loss: 0.0100
+Epoch [22/200], Step [300/372], Loss: 0.0104
+
+Validation..
+Training loss for epoch 22 is 0.0106
+Validation loss for epoch 22 is 0.0234
+Epoch 22 took 0.09 minutes
+
+Epoch [23/200]
+
+Training..
+Epoch [23/200], Step [100/372], Loss: 0.0103
+Epoch [23/200], Step [200/372], Loss: 0.0091
+Epoch [23/200], Step [300/372], Loss: 0.0101
+
+Validation..
+Training loss for epoch 23 is 0.0100
+Validation loss for epoch 23 is 0.0286
+Epoch 23 took 0.09 minutes
+
+Epoch [24/200]
+
+Training..
+Epoch [24/200], Step [100/372], Loss: 0.0114
+Epoch [24/200], Step [200/372], Loss: 0.0111
+Epoch [24/200], Step [300/372], Loss: 0.0104
+
+Validation..
+Training loss for epoch 24 is 0.0100
+Validation loss for epoch 24 is 0.0240
+Epoch 24 took 0.09 minutes
+
+Epoch [25/200]
+
+Training..
+Epoch [25/200], Step [100/372], Loss: 0.0098
+Epoch [25/200], Step [200/372], Loss: 0.0091
+Epoch [25/200], Step [300/372], Loss: 0.0092
+
+Validation..
+Training loss for epoch 25 is 0.0094
+Validation loss for epoch 25 is 0.0178
+Epoch 25 took 0.08 minutes
+
+Epoch [26/200]
+
+Training..
+Epoch [26/200], Step [100/372], Loss: 0.0088
+Epoch [26/200], Step [200/372], Loss: 0.0083
+Epoch [26/200], Step [300/372], Loss: 0.0085
+
+Validation..
+Training loss for epoch 26 is 0.0088
+Validation loss for epoch 26 is 0.0232
+Epoch 26 took 0.07 minutes
+
+Epoch [27/200]
+
+Training..
+Epoch [27/200], Step [100/372], Loss: 0.0085
+Epoch [27/200], Step [200/372], Loss: 0.0078
+Epoch [27/200], Step [300/372], Loss: 0.0077
+
+Validation..
+Training loss for epoch 27 is 0.0082
+Validation loss for epoch 27 is 0.0208
+Epoch 27 took 0.08 minutes
+
+Epoch [28/200]
+
+Training..
+Epoch [28/200], Step [100/372], Loss: 0.0080
+Epoch [28/200], Step [200/372], Loss: 0.0088
+Epoch [28/200], Step [300/372], Loss: 0.0093
+
+Validation..
+Training loss for epoch 28 is 0.0095
+Validation loss for epoch 28 is 0.0389
+Epoch 28 took 0.09 minutes
+
+Epoch [29/200]
+
+Training..
+Epoch [29/200], Step [100/372], Loss: 0.0073
+Epoch [29/200], Step [200/372], Loss: 0.0098
+Epoch [29/200], Step [300/372], Loss: 0.0095
+
+Validation..
+Training loss for epoch 29 is 0.0096
+Validation loss for epoch 29 is 0.0213
+Epoch 29 took 0.08 minutes
+
+Epoch [30/200]
+
+Training..
+Epoch [30/200], Step [100/372], Loss: 0.0088
+Epoch [30/200], Step [200/372], Loss: 0.0085
+Epoch [30/200], Step [300/372], Loss: 0.0083
+
+Validation..
+Training loss for epoch 30 is 0.0083
+Validation loss for epoch 30 is 0.0194
+Epoch 30 took 0.09 minutes
+
+Epoch [31/200]
+
+Training..
+Epoch [31/200], Step [100/372], Loss: 0.0063
+Epoch [31/200], Step [200/372], Loss: 0.0070
+Epoch [31/200], Step [300/372], Loss: 0.0070
+
+Validation..
+Training loss for epoch 31 is 0.0071
+Validation loss for epoch 31 is 0.0286
+Epoch 31 took 0.09 minutes
+
+Epoch [32/200]
+
+Training..
+Epoch [32/200], Step [100/372], Loss: 0.0077
+Epoch [32/200], Step [200/372], Loss: 0.0072
+Epoch [32/200], Step [300/372], Loss: 0.0074
+
+Validation..
+Training loss for epoch 32 is 0.0075
+Validation loss for epoch 32 is 0.0226
+Epoch 32 took 0.08 minutes
+
+Epoch [33/200]
+
+Training..
+Epoch [33/200], Step [100/372], Loss: 0.0087
+Epoch [33/200], Step [200/372], Loss: 0.0095
+Epoch [33/200], Step [300/372], Loss: 0.0094
+
+Validation..
+Training loss for epoch 33 is 0.0091
+Validation loss for epoch 33 is 0.0227
+Epoch 33 took 0.08 minutes
+
+Epoch [34/200]
+
+Training..
+Epoch [34/200], Step [100/372], Loss: 0.0069
+Epoch [34/200], Step [200/372], Loss: 0.0069
+Epoch [34/200], Step [300/372], Loss: 0.0074
+
+Validation..
+Training loss for epoch 34 is 0.0075
+Validation loss for epoch 34 is 0.0260
+Epoch 34 took 0.09 minutes
+
+Epoch [35/200]
+
+Training..
+Epoch [35/200], Step [100/372], Loss: 0.0062
+Epoch [35/200], Step [200/372], Loss: 0.0068
+Epoch [35/200], Step [300/372], Loss: 0.0069
+
+Validation..
+Training loss for epoch 35 is 0.0069
+Validation loss for epoch 35 is 0.0169
+Epoch 35 took 0.09 minutes
+
+Epoch [36/200]
+
+Training..
+Epoch [36/200], Step [100/372], Loss: 0.0057
+Epoch [36/200], Step [200/372], Loss: 0.0062
+Epoch [36/200], Step [300/372], Loss: 0.0060
+
+Validation..
+Training loss for epoch 36 is 0.0063
+Validation loss for epoch 36 is 0.0158
+Epoch 36 took 0.08 minutes
+
+Epoch [37/200]
+
+Training..
+Epoch [37/200], Step [100/372], Loss: 0.0068
+Epoch [37/200], Step [200/372], Loss: 0.0062
+Epoch [37/200], Step [300/372], Loss: 0.0075
+
+Validation..
+Training loss for epoch 37 is 0.0075
+Validation loss for epoch 37 is 0.0196
+Epoch 37 took 0.09 minutes
+
+Epoch [38/200]
+
+Training..
+Epoch [38/200], Step [100/372], Loss: 0.0083
+Epoch [38/200], Step [200/372], Loss: 0.0080
+Epoch [38/200], Step [300/372], Loss: 0.0090
+
+Validation..
+Training loss for epoch 38 is 0.0089
+Validation loss for epoch 38 is 0.0219
+Epoch 38 took 0.09 minutes
+
+Epoch [39/200]
+
+Training..
+Epoch [39/200], Step [100/372], Loss: 0.0057
+Epoch [39/200], Step [200/372], Loss: 0.0058
+Epoch [39/200], Step [300/372], Loss: 0.0055
+
+Validation..
+Training loss for epoch 39 is 0.0058
+Validation loss for epoch 39 is 0.0202
+Epoch 39 took 0.09 minutes
+
+Epoch [40/200]
+
+Training..
+Epoch [40/200], Step [100/372], Loss: 0.0047
+Epoch [40/200], Step [200/372], Loss: 0.0051
+Epoch [40/200], Step [300/372], Loss: 0.0055
+
+Validation..
+Training loss for epoch 40 is 0.0057
+Validation loss for epoch 40 is 0.0209
+Epoch 40 took 0.09 minutes
+
+Epoch [41/200]
+
+Training..
+Epoch [41/200], Step [100/372], Loss: 0.0058
+Epoch [41/200], Step [200/372], Loss: 0.0059
+Epoch [41/200], Step [300/372], Loss: 0.0064
+
+Validation..
+Training loss for epoch 41 is 0.0063
+Validation loss for epoch 41 is 0.0333
+Epoch 41 took 0.08 minutes
+
+Epoch [42/200]
+
+Training..
+Epoch [42/200], Step [100/372], Loss: 0.0082
+Epoch [42/200], Step [200/372], Loss: 0.0069
+Epoch [42/200], Step [300/372], Loss: 0.0066
+
+Validation..
+Training loss for epoch 42 is 0.0064
+Validation loss for epoch 42 is 0.0323
+Epoch 42 took 0.09 minutes
+
+Epoch [43/200]
+
+Training..
+Epoch [43/200], Step [100/372], Loss: 0.0077
+Epoch [43/200], Step [200/372], Loss: 0.0066
+Epoch [43/200], Step [300/372], Loss: 0.0070
+
+Validation..
+Training loss for epoch 43 is 0.0076
+Validation loss for epoch 43 is 0.0248
+Epoch 43 took 0.08 minutes
+
+Epoch [44/200]
+
+Training..
+Epoch [44/200], Step [100/372], Loss: 0.0092
+Epoch [44/200], Step [200/372], Loss: 0.0075
+Epoch [44/200], Step [300/372], Loss: 0.0081
+
+Validation..
+Training loss for epoch 44 is 0.0078
+Validation loss for epoch 44 is 0.0255
+Epoch 44 took 0.08 minutes
+
+Epoch [45/200]
+
+Training..
+Epoch [45/200], Step [100/372], Loss: 0.0098
+Epoch [45/200], Step [200/372], Loss: 0.0086
+Epoch [45/200], Step [300/372], Loss: 0.0080
+
+Validation..
+Training loss for epoch 45 is 0.0079
+Validation loss for epoch 45 is 0.0176
+Epoch 45 took 0.08 minutes
+
+Epoch [46/200]
+
+Training..
+Epoch [46/200], Step [100/372], Loss: 0.0077
+Epoch [46/200], Step [200/372], Loss: 0.0079
+Epoch [46/200], Step [300/372], Loss: 0.0075
+
+Validation..
+Training loss for epoch 46 is 0.0072
+Validation loss for epoch 46 is 0.0206
+Epoch 46 took 0.08 minutes
+
+Epoch [47/200]
+
+Training..
+Epoch [47/200], Step [100/372], Loss: 0.0058
+Epoch [47/200], Step [200/372], Loss: 0.0056
+Epoch [47/200], Step [300/372], Loss: 0.0057
+
+Validation..
+Training loss for epoch 47 is 0.0056
+Validation loss for epoch 47 is 0.0201
+Epoch 47 took 0.09 minutes
+
+Epoch [48/200]
+
+Training..
+Epoch [48/200], Step [100/372], Loss: 0.0043
+Epoch [48/200], Step [200/372], Loss: 0.0042
+Epoch [48/200], Step [300/372], Loss: 0.0044
+
+Validation..
+Training loss for epoch 48 is 0.0044
+Validation loss for epoch 48 is 0.0319
+Epoch 48 took 0.08 minutes
+
+Epoch [49/200]
+
+Training..
+Epoch [49/200], Step [100/372], Loss: 0.0038
+Epoch [49/200], Step [200/372], Loss: 0.0045
+Epoch [49/200], Step [300/372], Loss: 0.0049
+
+Validation..
+Training loss for epoch 49 is 0.0055
+Validation loss for epoch 49 is 0.0236
+Epoch 49 took 0.08 minutes
+
+Epoch [50/200]
+
+Training..
+Epoch [50/200], Step [100/372], Loss: 0.0071
+Epoch [50/200], Step [200/372], Loss: 0.0080
+Epoch [50/200], Step [300/372], Loss: 0.0068
+
+Validation..
+Training loss for epoch 50 is 0.0063
+Validation loss for epoch 50 is 0.0275
+Epoch 50 took 0.09 minutes
+
+Epoch [51/200]
+
+Training..
+Epoch [51/200], Step [100/372], Loss: 0.0042
+Epoch [51/200], Step [200/372], Loss: 0.0040
+Epoch [51/200], Step [300/372], Loss: 0.0041
+
+Validation..
+Training loss for epoch 51 is 0.0040
+Validation loss for epoch 51 is 0.0430
+Epoch 51 took 0.09 minutes
+
+Epoch [52/200]
+
+Training..
+Epoch [52/200], Step [100/372], Loss: 0.0067
+Epoch [52/200], Step [200/372], Loss: 0.0074
+Epoch [52/200], Step [300/372], Loss: 0.0072
+
+Validation..
+Training loss for epoch 52 is 0.0070
+Validation loss for epoch 52 is 0.0327
+Epoch 52 took 0.09 minutes
+
+Epoch [53/200]
+
+Training..
+Epoch [53/200], Step [100/372], Loss: 0.0044
+Epoch [53/200], Step [200/372], Loss: 0.0043
+Epoch [53/200], Step [300/372], Loss: 0.0047
+
+Validation..
+Training loss for epoch 53 is 0.0046
+Validation loss for epoch 53 is 0.0541
+Epoch 53 took 0.09 minutes
+
+Epoch [54/200]
+
+Training..
+Epoch [54/200], Step [100/372], Loss: 0.0029
+Epoch [54/200], Step [200/372], Loss: 0.0038
+Epoch [54/200], Step [300/372], Loss: 0.0039
+
+Validation..
+Training loss for epoch 54 is 0.0039
+Validation loss for epoch 54 is 0.0233
+Epoch 54 took 0.09 minutes
+
+Epoch [55/200]
+
+Training..
+Epoch [55/200], Step [100/372], Loss: 0.0076
+Epoch [55/200], Step [200/372], Loss: 0.0094
+Epoch [55/200], Step [300/372], Loss: 0.0081
+
+Validation..
+Training loss for epoch 55 is 0.0091
+Validation loss for epoch 55 is 0.0158
+Epoch 55 took 0.09 minutes
+
+Epoch [56/200]
+
+Training..
+Epoch [56/200], Step [100/372], Loss: 0.0067
+Epoch [56/200], Step [200/372], Loss: 0.0074
+Epoch [56/200], Step [300/372], Loss: 0.0070
+
+Validation..
+Training loss for epoch 56 is 0.0066
+Validation loss for epoch 56 is 0.0285
+Epoch 56 took 0.09 minutes
+
+Epoch [57/200]
+
+Training..
+Epoch [57/200], Step [100/372], Loss: 0.0050
+Epoch [57/200], Step [200/372], Loss: 0.0049
+Epoch [57/200], Step [300/372], Loss: 0.0054
+
+Validation..
+Training loss for epoch 57 is 0.0051
+Validation loss for epoch 57 is 0.0408
+Epoch 57 took 0.08 minutes
+
+Epoch [58/200]
+
+Training..
+Epoch [58/200], Step [100/372], Loss: 0.0035
+Epoch [58/200], Step [200/372], Loss: 0.0041
+Epoch [58/200], Step [300/372], Loss: 0.0047
+
+Validation..
+Training loss for epoch 58 is 0.0056
+Validation loss for epoch 58 is 0.0235
+Epoch 58 took 0.08 minutes
+
+Epoch [59/200]
+
+Training..
+Epoch [59/200], Step [100/372], Loss: 0.0044
+Epoch [59/200], Step [200/372], Loss: 0.0045
+Epoch [59/200], Step [300/372], Loss: 0.0047
+
+Validation..
+Training loss for epoch 59 is 0.0045
+Validation loss for epoch 59 is 0.0291
+Epoch 59 took 0.09 minutes
+
+Epoch [60/200]
+
+Training..
+Epoch [60/200], Step [100/372], Loss: 0.0045
+Epoch [60/200], Step [200/372], Loss: 0.0045
+Epoch [60/200], Step [300/372], Loss: 0.0042
+
+Validation..
+Training loss for epoch 60 is 0.0042
+Validation loss for epoch 60 is 0.0303
+Epoch 60 took 0.08 minutes
+
+Epoch [61/200]
+
+Training..
+Epoch [61/200], Step [100/372], Loss: 0.0036
+Epoch [61/200], Step [200/372], Loss: 0.0039
+Epoch [61/200], Step [300/372], Loss: 0.0043
+
+Validation..
+Training loss for epoch 61 is 0.0045
+Validation loss for epoch 61 is 0.0301
+Epoch 61 took 0.09 minutes
+
+Epoch [62/200]
+
+Training..
+Epoch [62/200], Step [100/372], Loss: 0.0062
+Epoch [62/200], Step [200/372], Loss: 0.0054
+Epoch [62/200], Step [300/372], Loss: 0.0055
+
+Validation..
+Training loss for epoch 62 is 0.0053
+Validation loss for epoch 62 is 0.0260
+Epoch 62 took 0.09 minutes
+
+Epoch [63/200]
+
+Training..
+Epoch [63/200], Step [100/372], Loss: 0.0045
+Epoch [63/200], Step [200/372], Loss: 0.0046
+Epoch [63/200], Step [300/372], Loss: 0.0042
+
+Validation..
+Training loss for epoch 63 is 0.0042
+Validation loss for epoch 63 is 0.0278
+Epoch 63 took 0.08 minutes
+
+Epoch [64/200]
+
+Training..
+Epoch [64/200], Step [100/372], Loss: 0.0031
+Epoch [64/200], Step [200/372], Loss: 0.0028
+Epoch [64/200], Step [300/372], Loss: 0.0035
+
+Validation..
+Training loss for epoch 64 is 0.0038
+Validation loss for epoch 64 is 0.0375
+Epoch 64 took 0.08 minutes
+
+Epoch [65/200]
+
+Training..
+Epoch [65/200], Step [100/372], Loss: 0.0066
+Epoch [65/200], Step [200/372], Loss: 0.0071
+Epoch [65/200], Step [300/372], Loss: 0.0068
+
+Validation..
+Training loss for epoch 65 is 0.0069
+Validation loss for epoch 65 is 0.0177
+Epoch 65 took 0.09 minutes
+
+Epoch [66/200]
+
+Training..
+Epoch [66/200], Step [100/372], Loss: 0.0053
+Epoch [66/200], Step [200/372], Loss: 0.0049
+Epoch [66/200], Step [300/372], Loss: 0.0058
+
+Validation..
+Training loss for epoch 66 is 0.0055
+Validation loss for epoch 66 is 0.0182
+Epoch 66 took 0.08 minutes
+
+Epoch [67/200]
+
+Training..
+Epoch [67/200], Step [100/372], Loss: 0.0043
+Epoch [67/200], Step [200/372], Loss: 0.0040
+Epoch [67/200], Step [300/372], Loss: 0.0040
+
+Validation..
+Training loss for epoch 67 is 0.0039
+Validation loss for epoch 67 is 0.0374
+Epoch 67 took 0.09 minutes
+
+Epoch [68/200]
+
+Training..
+Epoch [68/200], Step [100/372], Loss: 0.0041
+Epoch [68/200], Step [200/372], Loss: 0.0036
+Epoch [68/200], Step [300/372], Loss: 0.0039
+
+Validation..
+Training loss for epoch 68 is 0.0047
+Validation loss for epoch 68 is 0.0208
+Epoch 68 took 0.08 minutes
+
+Epoch [69/200]
+
+Training..
+Epoch [69/200], Step [100/372], Loss: 0.0050
+Epoch [69/200], Step [200/372], Loss: 0.0042
+Epoch [69/200], Step [300/372], Loss: 0.0041
+
+Validation..
+Training loss for epoch 69 is 0.0039
+Validation loss for epoch 69 is 0.0392
+Epoch 69 took 0.08 minutes
+
+Epoch [70/200]
+
+Training..
+Epoch [70/200], Step [100/372], Loss: 0.0019
+Epoch [70/200], Step [200/372], Loss: 0.0027
+Epoch [70/200], Step [300/372], Loss: 0.0034
+
+Validation..
+Training loss for epoch 70 is 0.0035
+Validation loss for epoch 70 is 0.0482
+Epoch 70 took 0.09 minutes
+
+Epoch [71/200]
+
+Training..
+Epoch [71/200], Step [100/372], Loss: 0.0032
+Epoch [71/200], Step [200/372], Loss: 0.0031
+Epoch [71/200], Step [300/372], Loss: 0.0029
+
+Validation..
+Training loss for epoch 71 is 0.0030
+Validation loss for epoch 71 is 0.0419
+Epoch 71 took 0.08 minutes
+
+Epoch [72/200]
+
+Training..
+Epoch [72/200], Step [100/372], Loss: 0.0026
+Epoch [72/200], Step [200/372], Loss: 0.0022
+Epoch [72/200], Step [300/372], Loss: 0.0025
+
+Validation..
+Training loss for epoch 72 is 0.0029
+Validation loss for epoch 72 is 0.0370
+Epoch 72 took 0.08 minutes
+
+Epoch [73/200]
+
+Training..
+Epoch [73/200], Step [100/372], Loss: 0.0038
+Epoch [73/200], Step [200/372], Loss: 0.0036
+Epoch [73/200], Step [300/372], Loss: 0.0034
+
+Validation..
+Training loss for epoch 73 is 0.0033
+Validation loss for epoch 73 is 0.0356
+Epoch 73 took 0.08 minutes
+
+Epoch [74/200]
+
+Training..
+Epoch [74/200], Step [100/372], Loss: 0.0032
+Epoch [74/200], Step [200/372], Loss: 0.0027
+Epoch [74/200], Step [300/372], Loss: 0.0024
+
+Validation..
+Training loss for epoch 74 is 0.0025
+Validation loss for epoch 74 is 0.0322
+Epoch 74 took 0.09 minutes
+
+Epoch [75/200]
+
+Training..
+Epoch [75/200], Step [100/372], Loss: 0.0030
+Epoch [75/200], Step [200/372], Loss: 0.0032
+Epoch [75/200], Step [300/372], Loss: 0.0036
+
+Validation..
+Training loss for epoch 75 is 0.0050
+Validation loss for epoch 75 is 0.0570
+Epoch 75 took 0.09 minutes
+
+Epoch [76/200]
+
+Training..
+Epoch [76/200], Step [100/372], Loss: 0.0058
+Epoch [76/200], Step [200/372], Loss: 0.0052
+Epoch [76/200], Step [300/372], Loss: 0.0056
+
+Validation..
+Training loss for epoch 76 is 0.0054
+Validation loss for epoch 76 is 0.0253
+Epoch 76 took 0.09 minutes
+
+Epoch [77/200]
+
+Training..
+Epoch [77/200], Step [100/372], Loss: 0.0038
+Epoch [77/200], Step [200/372], Loss: 0.0034
+Epoch [77/200], Step [300/372], Loss: 0.0035
+
+Validation..
+Training loss for epoch 77 is 0.0034
+Validation loss for epoch 77 is 0.0438
+Epoch 77 took 0.09 minutes
+
+Epoch [78/200]
+
+Training..
+Epoch [78/200], Step [100/372], Loss: 0.0023
+Epoch [78/200], Step [200/372], Loss: 0.0021
+Epoch [78/200], Step [300/372], Loss: 0.0020
+
+Validation..
+Training loss for epoch 78 is 0.0019
+Validation loss for epoch 78 is 0.0304
+Epoch 78 took 0.09 minutes
+
+Epoch [79/200]
+
+Training..
+Epoch [79/200], Step [100/372], Loss: 0.0037
+Epoch [79/200], Step [200/372], Loss: 0.0040
+Epoch [79/200], Step [300/372], Loss: 0.0046
+
+Validation..
+Training loss for epoch 79 is 0.0044
+Validation loss for epoch 79 is 0.0392
+Epoch 79 took 0.08 minutes
+
+Epoch [80/200]
+
+Training..
+Epoch [80/200], Step [100/372], Loss: 0.0031
+Epoch [80/200], Step [200/372], Loss: 0.0030
+Epoch [80/200], Step [300/372], Loss: 0.0027
+
+Validation..
+Training loss for epoch 80 is 0.0026
+Validation loss for epoch 80 is 0.0386
+Epoch 80 took 0.09 minutes
+
+Epoch [81/200]
+
+Training..
+Epoch [81/200], Step [100/372], Loss: 0.0026
+Epoch [81/200], Step [200/372], Loss: 0.0023
+Epoch [81/200], Step [300/372], Loss: 0.0021
+
+Validation..
+Training loss for epoch 81 is 0.0021
+Validation loss for epoch 81 is 0.0260
+Epoch 81 took 0.09 minutes
+
+Epoch [82/200]
+
+Training..
+Epoch [82/200], Step [100/372], Loss: 0.0021
+Epoch [82/200], Step [200/372], Loss: 0.0037
+Epoch [82/200], Step [300/372], Loss: 0.0044
+
+Validation..
+Training loss for epoch 82 is 0.0042
+Validation loss for epoch 82 is 0.0496
+Epoch 82 took 0.08 minutes
+
+Epoch [83/200]
+
+Training..
+Epoch [83/200], Step [100/372], Loss: 0.0020
+Epoch [83/200], Step [200/372], Loss: 0.0019
+Epoch [83/200], Step [300/372], Loss: 0.0020
+
+Validation..
+Training loss for epoch 83 is 0.0022
+Validation loss for epoch 83 is 0.0679
+Epoch 83 took 0.09 minutes
+
+Epoch [84/200]
+
+Training..
+Epoch [84/200], Step [100/372], Loss: 0.0028
+Epoch [84/200], Step [200/372], Loss: 0.0033
+Epoch [84/200], Step [300/372], Loss: 0.0042
+
+Validation..
+Training loss for epoch 84 is 0.0056
+Validation loss for epoch 84 is 0.0295
+Epoch 84 took 0.08 minutes
+
+Epoch [85/200]
+
+Training..
+Epoch [85/200], Step [100/372], Loss: 0.0085
+Epoch [85/200], Step [200/372], Loss: 0.0074
+Epoch [85/200], Step [300/372], Loss: 0.0066
+
+Validation..
+Training loss for epoch 85 is 0.0064
+Validation loss for epoch 85 is 0.0455
+Epoch 85 took 0.08 minutes
+
+Epoch [86/200]
+
+Training..
+Epoch [86/200], Step [100/372], Loss: 0.0030
+Epoch [86/200], Step [200/372], Loss: 0.0030
+Epoch [86/200], Step [300/372], Loss: 0.0032
+
+Validation..
+Training loss for epoch 86 is 0.0031
+Validation loss for epoch 86 is 0.0414
+Epoch 86 took 0.08 minutes
+
+Epoch [87/200]
+
+Training..
+Epoch [87/200], Step [100/372], Loss: 0.0036
+Epoch [87/200], Step [200/372], Loss: 0.0032
+Epoch [87/200], Step [300/372], Loss: 0.0038
+
+Validation..
+Training loss for epoch 87 is 0.0039
+Validation loss for epoch 87 is 0.0338
+Epoch 87 took 0.08 minutes
+
+Epoch [88/200]
+
+Training..
+Epoch [88/200], Step [100/372], Loss: 0.0036
+Epoch [88/200], Step [200/372], Loss: 0.0045
+Epoch [88/200], Step [300/372], Loss: 0.0049
+
+Validation..
+Training loss for epoch 88 is 0.0049
+Validation loss for epoch 88 is 0.0288
+Epoch 88 took 0.09 minutes
+
+Epoch [89/200]
+
+Training..
+Epoch [89/200], Step [100/372], Loss: 0.0030
+Epoch [89/200], Step [200/372], Loss: 0.0031
+Epoch [89/200], Step [300/372], Loss: 0.0037
+
+Validation..
+Training loss for epoch 89 is 0.0040
+Validation loss for epoch 89 is 0.0315
+Epoch 89 took 0.08 minutes
+
+Epoch [90/200]
+
+Training..
+Epoch [90/200], Step [100/372], Loss: 0.0056
+Epoch [90/200], Step [200/372], Loss: 0.0057
+Epoch [90/200], Step [300/372], Loss: 0.0046
+
+Validation..
+Training loss for epoch 90 is 0.0042
+Validation loss for epoch 90 is 0.0346
+Epoch 90 took 0.08 minutes
+
+Epoch [91/200]
+
+Training..
+Epoch [91/200], Step [100/372], Loss: 0.0017
+Epoch [91/200], Step [200/372], Loss: 0.0017
+Epoch [91/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 91 is 0.0016
+Validation loss for epoch 91 is 0.0462
+Epoch 91 took 0.09 minutes
+
+Epoch [92/200]
+
+Training..
+Epoch [92/200], Step [100/372], Loss: 0.0016
+Epoch [92/200], Step [200/372], Loss: 0.0013
+Epoch [92/200], Step [300/372], Loss: 0.0015
+
+Validation..
+Training loss for epoch 92 is 0.0016
+Validation loss for epoch 92 is 0.0553
+Epoch 92 took 0.09 minutes
+
+Epoch [93/200]
+
+Training..
+Epoch [93/200], Step [100/372], Loss: 0.0056
+Epoch [93/200], Step [200/372], Loss: 0.0048
+Epoch [93/200], Step [300/372], Loss: 0.0047
+
+Validation..
+Training loss for epoch 93 is 0.0044
+Validation loss for epoch 93 is 0.0439
+Epoch 93 took 0.09 minutes
+
+Epoch [94/200]
+
+Training..
+Epoch [94/200], Step [100/372], Loss: 0.0021
+Epoch [94/200], Step [200/372], Loss: 0.0032
+Epoch [94/200], Step [300/372], Loss: 0.0051
+
+Validation..
+Training loss for epoch 94 is 0.0065
+Validation loss for epoch 94 is 0.0162
+Epoch 94 took 0.08 minutes
+
+Epoch [95/200]
+
+Training..
+Epoch [95/200], Step [100/372], Loss: 0.0053
+Epoch [95/200], Step [200/372], Loss: 0.0044
+Epoch [95/200], Step [300/372], Loss: 0.0040
+
+Validation..
+Training loss for epoch 95 is 0.0037
+Validation loss for epoch 95 is 0.0362
+Epoch 95 took 0.09 minutes
+
+Epoch [96/200]
+
+Training..
+Epoch [96/200], Step [100/372], Loss: 0.0016
+Epoch [96/200], Step [200/372], Loss: 0.0023
+Epoch [96/200], Step [300/372], Loss: 0.0044
+
+Validation..
+Training loss for epoch 96 is 0.0044
+Validation loss for epoch 96 is 0.0275
+Epoch 96 took 0.09 minutes
+
+Epoch [97/200]
+
+Training..
+Epoch [97/200], Step [100/372], Loss: 0.0029
+Epoch [97/200], Step [200/372], Loss: 0.0027
+Epoch [97/200], Step [300/372], Loss: 0.0023
+
+Validation..
+Training loss for epoch 97 is 0.0022
+Validation loss for epoch 97 is 0.0414
+Epoch 97 took 0.09 minutes
+
+Epoch [98/200]
+
+Training..
+Epoch [98/200], Step [100/372], Loss: 0.0018
+Epoch [98/200], Step [200/372], Loss: 0.0017
+Epoch [98/200], Step [300/372], Loss: 0.0015
+
+Validation..
+Training loss for epoch 98 is 0.0017
+Validation loss for epoch 98 is 0.0458
+Epoch 98 took 0.08 minutes
+
+Epoch [99/200]
+
+Training..
+Epoch [99/200], Step [100/372], Loss: 0.0016
+Epoch [99/200], Step [200/372], Loss: 0.0020
+Epoch [99/200], Step [300/372], Loss: 0.0023
+
+Validation..
+Training loss for epoch 99 is 0.0022
+Validation loss for epoch 99 is 0.0375
+Epoch 99 took 0.08 minutes
+
+Epoch [100/200]
+
+Training..
+Epoch [100/200], Step [100/372], Loss: 0.0015
+Epoch [100/200], Step [200/372], Loss: 0.0016
+Epoch [100/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 100 is 0.0020
+Validation loss for epoch 100 is 0.0154
+Epoch 100 took 0.08 minutes
+
+Epoch [101/200]
+
+Training..
+Epoch [101/200], Step [100/372], Loss: 0.0039
+Epoch [101/200], Step [200/372], Loss: 0.0045
+Epoch [101/200], Step [300/372], Loss: 0.0041
+
+Validation..
+Training loss for epoch 101 is 0.0042
+Validation loss for epoch 101 is 0.0338
+Epoch 101 took 0.08 minutes
+
+Epoch [102/200]
+
+Training..
+Epoch [102/200], Step [100/372], Loss: 0.0020
+Epoch [102/200], Step [200/372], Loss: 0.0019
+Epoch [102/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 102 is 0.0015
+Validation loss for epoch 102 is 0.0570
+Epoch 102 took 0.09 minutes
+
+Epoch [103/200]
+
+Training..
+Epoch [103/200], Step [100/372], Loss: 0.0008
+Epoch [103/200], Step [200/372], Loss: 0.0008
+Epoch [103/200], Step [300/372], Loss: 0.0015
+
+Validation..
+Training loss for epoch 103 is 0.0033
+Validation loss for epoch 103 is 0.0240
+Epoch 103 took 0.07 minutes
+
+Epoch [104/200]
+
+Training..
+Epoch [104/200], Step [100/372], Loss: 0.0079
+Epoch [104/200], Step [200/372], Loss: 0.0074
+Epoch [104/200], Step [300/372], Loss: 0.0064
+
+Validation..
+Training loss for epoch 104 is 0.0059
+Validation loss for epoch 104 is 0.0450
+Epoch 104 took 0.09 minutes
+
+Epoch [105/200]
+
+Training..
+Epoch [105/200], Step [100/372], Loss: 0.0014
+Epoch [105/200], Step [200/372], Loss: 0.0016
+Epoch [105/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 105 is 0.0028
+Validation loss for epoch 105 is 0.0286
+Epoch 105 took 0.08 minutes
+
+Epoch [106/200]
+
+Training..
+Epoch [106/200], Step [100/372], Loss: 0.0024
+Epoch [106/200], Step [200/372], Loss: 0.0020
+Epoch [106/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 106 is 0.0017
+Validation loss for epoch 106 is 0.0636
+Epoch 106 took 0.08 minutes
+
+Epoch [107/200]
+
+Training..
+Epoch [107/200], Step [100/372], Loss: 0.0010
+Epoch [107/200], Step [200/372], Loss: 0.0013
+Epoch [107/200], Step [300/372], Loss: 0.0017
+
+Validation..
+Training loss for epoch 107 is 0.0016
+Validation loss for epoch 107 is 0.0558
+Epoch 107 took 0.09 minutes
+
+Epoch [108/200]
+
+Training..
+Epoch [108/200], Step [100/372], Loss: 0.0011
+Epoch [108/200], Step [200/372], Loss: 0.0012
+Epoch [108/200], Step [300/372], Loss: 0.0013
+
+Validation..
+Training loss for epoch 108 is 0.0013
+Validation loss for epoch 108 is 0.0506
+Epoch 108 took 0.09 minutes
+
+Epoch [109/200]
+
+Training..
+Epoch [109/200], Step [100/372], Loss: 0.0051
+Epoch [109/200], Step [200/372], Loss: 0.0045
+Epoch [109/200], Step [300/372], Loss: 0.0038
+
+Validation..
+Training loss for epoch 109 is 0.0037
+Validation loss for epoch 109 is 0.0378
+Epoch 109 took 0.09 minutes
+
+Epoch [110/200]
+
+Training..
+Epoch [110/200], Step [100/372], Loss: 0.0027
+Epoch [110/200], Step [200/372], Loss: 0.0019
+Epoch [110/200], Step [300/372], Loss: 0.0024
+
+Validation..
+Training loss for epoch 110 is 0.0026
+Validation loss for epoch 110 is 0.0539
+Epoch 110 took 0.09 minutes
+
+Epoch [111/200]
+
+Training..
+Epoch [111/200], Step [100/372], Loss: 0.0094
+Epoch [111/200], Step [200/372], Loss: 0.0070
+Epoch [111/200], Step [300/372], Loss: 0.0058
+
+Validation..
+Training loss for epoch 111 is 0.0051
+Validation loss for epoch 111 is 0.0358
+Epoch 111 took 0.09 minutes
+
+Epoch [112/200]
+
+Training..
+Epoch [112/200], Step [100/372], Loss: 0.0025
+Epoch [112/200], Step [200/372], Loss: 0.0021
+Epoch [112/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 112 is 0.0017
+Validation loss for epoch 112 is 0.0422
+Epoch 112 took 0.08 minutes
+
+Epoch [113/200]
+
+Training..
+Epoch [113/200], Step [100/372], Loss: 0.0008
+Epoch [113/200], Step [200/372], Loss: 0.0007
+Epoch [113/200], Step [300/372], Loss: 0.0017
+
+Validation..
+Training loss for epoch 113 is 0.0024
+Validation loss for epoch 113 is 0.0204
+Epoch 113 took 0.09 minutes
+
+Epoch [114/200]
+
+Training..
+Epoch [114/200], Step [100/372], Loss: 0.0024
+Epoch [114/200], Step [200/372], Loss: 0.0019
+Epoch [114/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 114 is 0.0018
+Validation loss for epoch 114 is 0.0471
+Epoch 114 took 0.09 minutes
+
+Epoch [115/200]
+
+Training..
+Epoch [115/200], Step [100/372], Loss: 0.0011
+Epoch [115/200], Step [200/372], Loss: 0.0009
+Epoch [115/200], Step [300/372], Loss: 0.0009
+
+Validation..
+Training loss for epoch 115 is 0.0008
+Validation loss for epoch 115 is 0.0652
+Epoch 115 took 0.09 minutes
+
+Epoch [116/200]
+
+Training..
+Epoch [116/200], Step [100/372], Loss: 0.0003
+Epoch [116/200], Step [200/372], Loss: 0.0004
+Epoch [116/200], Step [300/372], Loss: 0.0006
+
+Validation..
+Training loss for epoch 116 is 0.0006
+Validation loss for epoch 116 is 0.0662
+Epoch 116 took 0.09 minutes
+
+Epoch [117/200]
+
+Training..
+Epoch [117/200], Step [100/372], Loss: 0.0006
+Epoch [117/200], Step [200/372], Loss: 0.0019
+Epoch [117/200], Step [300/372], Loss: 0.0028
+
+Validation..
+Training loss for epoch 117 is 0.0029
+Validation loss for epoch 117 is 0.0474
+Epoch 117 took 0.09 minutes
+
+Epoch [118/200]
+
+Training..
+Epoch [118/200], Step [100/372], Loss: 0.0051
+Epoch [118/200], Step [200/372], Loss: 0.0047
+Epoch [118/200], Step [300/372], Loss: 0.0039
+
+Validation..
+Training loss for epoch 118 is 0.0037
+Validation loss for epoch 118 is 0.0365
+Epoch 118 took 0.08 minutes
+
+Epoch [119/200]
+
+Training..
+Epoch [119/200], Step [100/372], Loss: 0.0032
+Epoch [119/200], Step [200/372], Loss: 0.0025
+Epoch [119/200], Step [300/372], Loss: 0.0022
+
+Validation..
+Training loss for epoch 119 is 0.0024
+Validation loss for epoch 119 is 0.0375
+Epoch 119 took 0.09 minutes
+
+Epoch [120/200]
+
+Training..
+Epoch [120/200], Step [100/372], Loss: 0.0029
+Epoch [120/200], Step [200/372], Loss: 0.0024
+Epoch [120/200], Step [300/372], Loss: 0.0021
+
+Validation..
+Training loss for epoch 120 is 0.0019
+Validation loss for epoch 120 is 0.0545
+Epoch 120 took 0.09 minutes
+
+Epoch [121/200]
+
+Training..
+Epoch [121/200], Step [100/372], Loss: 0.0009
+Epoch [121/200], Step [200/372], Loss: 0.0007
+Epoch [121/200], Step [300/372], Loss: 0.0006
+
+Validation..
+Training loss for epoch 121 is 0.0006
+Validation loss for epoch 121 is 0.0514
+Epoch 121 took 0.08 minutes
+
+Epoch [122/200]
+
+Training..
+Epoch [122/200], Step [100/372], Loss: 0.0004
+Epoch [122/200], Step [200/372], Loss: 0.0004
+Epoch [122/200], Step [300/372], Loss: 0.0004
+
+Validation..
+Training loss for epoch 122 is 0.0004
+Validation loss for epoch 122 is 0.0655
+Epoch 122 took 0.08 minutes
+
+Epoch [123/200]
+
+Training..
+Epoch [123/200], Step [100/372], Loss: 0.0002
+Epoch [123/200], Step [200/372], Loss: 0.0003
+Epoch [123/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 123 is 0.0003
+Validation loss for epoch 123 is 0.0683
+Epoch 123 took 0.09 minutes
+
+Epoch [124/200]
+
+Training..
+Epoch [124/200], Step [100/372], Loss: 0.0003
+Epoch [124/200], Step [200/372], Loss: 0.0003
+Epoch [124/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 124 is 0.0003
+Validation loss for epoch 124 is 0.0699
+Epoch 124 took 0.08 minutes
+
+Epoch [125/200]
+
+Training..
+Epoch [125/200], Step [100/372], Loss: 0.0002
+Epoch [125/200], Step [200/372], Loss: 0.0002
+Epoch [125/200], Step [300/372], Loss: 0.0004
+
+Validation..
+Training loss for epoch 125 is 0.0018
+Validation loss for epoch 125 is 0.0797
+Epoch 125 took 0.08 minutes
+
+Epoch [126/200]
+
+Training..
+Epoch [126/200], Step [100/372], Loss: 0.0233
+Epoch [126/200], Step [200/372], Loss: 0.0169
+Epoch [126/200], Step [300/372], Loss: 0.0137
+
+Validation..
+Training loss for epoch 126 is 0.0120
+Validation loss for epoch 126 is 0.0309
+Epoch 126 took 0.08 minutes
+
+Epoch [127/200]
+
+Training..
+Epoch [127/200], Step [100/372], Loss: 0.0032
+Epoch [127/200], Step [200/372], Loss: 0.0070
+Epoch [127/200], Step [300/372], Loss: 0.0087
+
+Validation..
+Training loss for epoch 127 is 0.0084
+Validation loss for epoch 127 is 0.0310
+Epoch 127 took 0.08 minutes
+
+Epoch [128/200]
+
+Training..
+Epoch [128/200], Step [100/372], Loss: 0.0058
+Epoch [128/200], Step [200/372], Loss: 0.0052
+Epoch [128/200], Step [300/372], Loss: 0.0052
+
+Validation..
+Training loss for epoch 128 is 0.0050
+Validation loss for epoch 128 is 0.0377
+Epoch 128 took 0.08 minutes
+
+Epoch [129/200]
+
+Training..
+Epoch [129/200], Step [100/372], Loss: 0.0029
+Epoch [129/200], Step [200/372], Loss: 0.0031
+Epoch [129/200], Step [300/372], Loss: 0.0029
+
+Validation..
+Training loss for epoch 129 is 0.0029
+Validation loss for epoch 129 is 0.0497
+Epoch 129 took 0.08 minutes
+
+Epoch [130/200]
+
+Training..
+Epoch [130/200], Step [100/372], Loss: 0.0020
+Epoch [130/200], Step [200/372], Loss: 0.0024
+Epoch [130/200], Step [300/372], Loss: 0.0023
+
+Validation..
+Training loss for epoch 130 is 0.0025
+Validation loss for epoch 130 is 0.0677
+Epoch 130 took 0.08 minutes
+
+Epoch [131/200]
+
+Training..
+Epoch [131/200], Step [100/372], Loss: 0.0024
+Epoch [131/200], Step [200/372], Loss: 0.0022
+Epoch [131/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 131 is 0.0019
+Validation loss for epoch 131 is 0.0459
+Epoch 131 took 0.09 minutes
+
+Epoch [132/200]
+
+Training..
+Epoch [132/200], Step [100/372], Loss: 0.0010
+Epoch [132/200], Step [200/372], Loss: 0.0012
+Epoch [132/200], Step [300/372], Loss: 0.0011
+
+Validation..
+Training loss for epoch 132 is 0.0011
+Validation loss for epoch 132 is 0.0713
+Epoch 132 took 0.09 minutes
+
+Epoch [133/200]
+
+Training..
+Epoch [133/200], Step [100/372], Loss: 0.0005
+Epoch [133/200], Step [200/372], Loss: 0.0026
+Epoch [133/200], Step [300/372], Loss: 0.0071
+
+Validation..
+Training loss for epoch 133 is 0.0071
+Validation loss for epoch 133 is 0.0287
+Epoch 133 took 0.09 minutes
+
+Epoch [134/200]
+
+Training..
+Epoch [134/200], Step [100/372], Loss: 0.0051
+Epoch [134/200], Step [200/372], Loss: 0.0038
+Epoch [134/200], Step [300/372], Loss: 0.0034
+
+Validation..
+Training loss for epoch 134 is 0.0033
+Validation loss for epoch 134 is 0.0411
+Epoch 134 took 0.08 minutes
+
+Epoch [135/200]
+
+Training..
+Epoch [135/200], Step [100/372], Loss: 0.0023
+Epoch [135/200], Step [200/372], Loss: 0.0020
+Epoch [135/200], Step [300/372], Loss: 0.0024
+
+Validation..
+Training loss for epoch 135 is 0.0023
+Validation loss for epoch 135 is 0.0408
+Epoch 135 took 0.08 minutes
+
+Epoch [136/200]
+
+Training..
+Epoch [136/200], Step [100/372], Loss: 0.0010
+Epoch [136/200], Step [200/372], Loss: 0.0011
+Epoch [136/200], Step [300/372], Loss: 0.0010
+
+Validation..
+Training loss for epoch 136 is 0.0012
+Validation loss for epoch 136 is 0.0533
+Epoch 136 took 0.09 minutes
+
+Epoch [137/200]
+
+Training..
+Epoch [137/200], Step [100/372], Loss: 0.0008
+Epoch [137/200], Step [200/372], Loss: 0.0011
+Epoch [137/200], Step [300/372], Loss: 0.0010
+
+Validation..
+Training loss for epoch 137 is 0.0010
+Validation loss for epoch 137 is 0.0778
+Epoch 137 took 0.09 minutes
+
+Epoch [138/200]
+
+Training..
+Epoch [138/200], Step [100/372], Loss: 0.0017
+Epoch [138/200], Step [200/372], Loss: 0.0038
+Epoch [138/200], Step [300/372], Loss: 0.0037
+
+Validation..
+Training loss for epoch 138 is 0.0042
+Validation loss for epoch 138 is 0.0186
+Epoch 138 took 0.08 minutes
+
+Epoch [139/200]
+
+Training..
+Epoch [139/200], Step [100/372], Loss: 0.0050
+Epoch [139/200], Step [200/372], Loss: 0.0060
+Epoch [139/200], Step [300/372], Loss: 0.0052
+
+Validation..
+Training loss for epoch 139 is 0.0048
+Validation loss for epoch 139 is 0.0390
+Epoch 139 took 0.09 minutes
+
+Epoch [140/200]
+
+Training..
+Epoch [140/200], Step [100/372], Loss: 0.0017
+Epoch [140/200], Step [200/372], Loss: 0.0019
+Epoch [140/200], Step [300/372], Loss: 0.0023
+
+Validation..
+Training loss for epoch 140 is 0.0024
+Validation loss for epoch 140 is 0.0404
+Epoch 140 took 0.08 minutes
+
+Epoch [141/200]
+
+Training..
+Epoch [141/200], Step [100/372], Loss: 0.0022
+Epoch [141/200], Step [200/372], Loss: 0.0020
+Epoch [141/200], Step [300/372], Loss: 0.0021
+
+Validation..
+Training loss for epoch 141 is 0.0024
+Validation loss for epoch 141 is 0.0587
+Epoch 141 took 0.08 minutes
+
+Epoch [142/200]
+
+Training..
+Epoch [142/200], Step [100/372], Loss: 0.0014
+Epoch [142/200], Step [200/372], Loss: 0.0019
+Epoch [142/200], Step [300/372], Loss: 0.0015
+
+Validation..
+Training loss for epoch 142 is 0.0014
+Validation loss for epoch 142 is 0.0687
+Epoch 142 took 0.08 minutes
+
+Epoch [143/200]
+
+Training..
+Epoch [143/200], Step [100/372], Loss: 0.0005
+Epoch [143/200], Step [200/372], Loss: 0.0005
+Epoch [143/200], Step [300/372], Loss: 0.0007
+
+Validation..
+Training loss for epoch 143 is 0.0008
+Validation loss for epoch 143 is 0.0713
+Epoch 143 took 0.09 minutes
+
+Epoch [144/200]
+
+Training..
+Epoch [144/200], Step [100/372], Loss: 0.0015
+Epoch [144/200], Step [200/372], Loss: 0.0017
+Epoch [144/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 144 is 0.0021
+Validation loss for epoch 144 is 0.0605
+Epoch 144 took 0.08 minutes
+
+Epoch [145/200]
+
+Training..
+Epoch [145/200], Step [100/372], Loss: 0.0016
+Epoch [145/200], Step [200/372], Loss: 0.0027
+Epoch [145/200], Step [300/372], Loss: 0.0029
+
+Validation..
+Training loss for epoch 145 is 0.0028
+Validation loss for epoch 145 is 0.0636
+Epoch 145 took 0.08 minutes
+
+Epoch [146/200]
+
+Training..
+Epoch [146/200], Step [100/372], Loss: 0.0054
+Epoch [146/200], Step [200/372], Loss: 0.0038
+Epoch [146/200], Step [300/372], Loss: 0.0034
+
+Validation..
+Training loss for epoch 146 is 0.0035
+Validation loss for epoch 146 is 0.0414
+Epoch 146 took 0.08 minutes
+
+Epoch [147/200]
+
+Training..
+Epoch [147/200], Step [100/372], Loss: 0.0013
+Epoch [147/200], Step [200/372], Loss: 0.0011
+Epoch [147/200], Step [300/372], Loss: 0.0018
+
+Validation..
+Training loss for epoch 147 is 0.0018
+Validation loss for epoch 147 is 0.0655
+Epoch 147 took 0.08 minutes
+
+Epoch [148/200]
+
+Training..
+Epoch [148/200], Step [100/372], Loss: 0.0049
+Epoch [148/200], Step [200/372], Loss: 0.0042
+Epoch [148/200], Step [300/372], Loss: 0.0033
+
+Validation..
+Training loss for epoch 148 is 0.0028
+Validation loss for epoch 148 is 0.0451
+Epoch 148 took 0.09 minutes
+
+Epoch [149/200]
+
+Training..
+Epoch [149/200], Step [100/372], Loss: 0.0010
+Epoch [149/200], Step [200/372], Loss: 0.0009
+Epoch [149/200], Step [300/372], Loss: 0.0008
+
+Validation..
+Training loss for epoch 149 is 0.0008
+Validation loss for epoch 149 is 0.0596
+Epoch 149 took 0.08 minutes
+
+Epoch [150/200]
+
+Training..
+Epoch [150/200], Step [100/372], Loss: 0.0005
+Epoch [150/200], Step [200/372], Loss: 0.0004
+Epoch [150/200], Step [300/372], Loss: 0.0004
+
+Validation..
+Training loss for epoch 150 is 0.0004
+Validation loss for epoch 150 is 0.0680
+Epoch 150 took 0.08 minutes
+
+Epoch [151/200]
+
+Training..
+Epoch [151/200], Step [100/372], Loss: 0.0002
+Epoch [151/200], Step [200/372], Loss: 0.0002
+Epoch [151/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 151 is 0.0008
+Validation loss for epoch 151 is 0.0453
+Epoch 151 took 0.09 minutes
+
+Epoch [152/200]
+
+Training..
+Epoch [152/200], Step [100/372], Loss: 0.0044
+Epoch [152/200], Step [200/372], Loss: 0.0039
+Epoch [152/200], Step [300/372], Loss: 0.0038
+
+Validation..
+Training loss for epoch 152 is 0.0035
+Validation loss for epoch 152 is 0.0270
+Epoch 152 took 0.08 minutes
+
+Epoch [153/200]
+
+Training..
+Epoch [153/200], Step [100/372], Loss: 0.0020
+Epoch [153/200], Step [200/372], Loss: 0.0016
+Epoch [153/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 153 is 0.0018
+Validation loss for epoch 153 is 0.0687
+Epoch 153 took 0.08 minutes
+
+Epoch [154/200]
+
+Training..
+Epoch [154/200], Step [100/372], Loss: 0.0027
+Epoch [154/200], Step [200/372], Loss: 0.0034
+Epoch [154/200], Step [300/372], Loss: 0.0031
+
+Validation..
+Training loss for epoch 154 is 0.0028
+Validation loss for epoch 154 is 0.0573
+Epoch 154 took 0.08 minutes
+
+Epoch [155/200]
+
+Training..
+Epoch [155/200], Step [100/372], Loss: 0.0025
+Epoch [155/200], Step [200/372], Loss: 0.0025
+Epoch [155/200], Step [300/372], Loss: 0.0021
+
+Validation..
+Training loss for epoch 155 is 0.0018
+Validation loss for epoch 155 is 0.0463
+Epoch 155 took 0.08 minutes
+
+Epoch [156/200]
+
+Training..
+Epoch [156/200], Step [100/372], Loss: 0.0004
+Epoch [156/200], Step [200/372], Loss: 0.0006
+Epoch [156/200], Step [300/372], Loss: 0.0006
+
+Validation..
+Training loss for epoch 156 is 0.0006
+Validation loss for epoch 156 is 0.0705
+Epoch 156 took 0.09 minutes
+
+Epoch [157/200]
+
+Training..
+Epoch [157/200], Step [100/372], Loss: 0.0003
+Epoch [157/200], Step [200/372], Loss: 0.0003
+Epoch [157/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 157 is 0.0004
+Validation loss for epoch 157 is 0.0694
+Epoch 157 took 0.09 minutes
+
+Epoch [158/200]
+
+Training..
+Epoch [158/200], Step [100/372], Loss: 0.0003
+Epoch [158/200], Step [200/372], Loss: 0.0003
+Epoch [158/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 158 is 0.0003
+Validation loss for epoch 158 is 0.0764
+Epoch 158 took 0.09 minutes
+
+Epoch [159/200]
+
+Training..
+Epoch [159/200], Step [100/372], Loss: 0.0007
+Epoch [159/200], Step [200/372], Loss: 0.0006
+Epoch [159/200], Step [300/372], Loss: 0.0024
+
+Validation..
+Training loss for epoch 159 is 0.0028
+Validation loss for epoch 159 is 0.1047
+Epoch 159 took 0.09 minutes
+
+Epoch [160/200]
+
+Training..
+Epoch [160/200], Step [100/372], Loss: 0.0036
+Epoch [160/200], Step [200/372], Loss: 0.0045
+Epoch [160/200], Step [300/372], Loss: 0.0046
+
+Validation..
+Training loss for epoch 160 is 0.0050
+Validation loss for epoch 160 is 0.0263
+Epoch 160 took 0.08 minutes
+
+Epoch [161/200]
+
+Training..
+Epoch [161/200], Step [100/372], Loss: 0.0031
+Epoch [161/200], Step [200/372], Loss: 0.0028
+Epoch [161/200], Step [300/372], Loss: 0.0027
+
+Validation..
+Training loss for epoch 161 is 0.0024
+Validation loss for epoch 161 is 0.0410
+Epoch 161 took 0.08 minutes
+
+Epoch [162/200]
+
+Training..
+Epoch [162/200], Step [100/372], Loss: 0.0009
+Epoch [162/200], Step [200/372], Loss: 0.0008
+Epoch [162/200], Step [300/372], Loss: 0.0012
+
+Validation..
+Training loss for epoch 162 is 0.0017
+Validation loss for epoch 162 is 0.0299
+Epoch 162 took 0.08 minutes
+
+Epoch [163/200]
+
+Training..
+Epoch [163/200], Step [100/372], Loss: 0.0023
+Epoch [163/200], Step [200/372], Loss: 0.0016
+Epoch [163/200], Step [300/372], Loss: 0.0013
+
+Validation..
+Training loss for epoch 163 is 0.0011
+Validation loss for epoch 163 is 0.0620
+Epoch 163 took 0.09 minutes
+
+Epoch [164/200]
+
+Training..
+Epoch [164/200], Step [100/372], Loss: 0.0005
+Epoch [164/200], Step [200/372], Loss: 0.0003
+Epoch [164/200], Step [300/372], Loss: 0.0004
+
+Validation..
+Training loss for epoch 164 is 0.0003
+Validation loss for epoch 164 is 0.0711
+Epoch 164 took 0.08 minutes
+
+Epoch [165/200]
+
+Training..
+Epoch [165/200], Step [100/372], Loss: 0.0001
+Epoch [165/200], Step [200/372], Loss: 0.0002
+Epoch [165/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 165 is 0.0002
+Validation loss for epoch 165 is 0.0806
+Epoch 165 took 0.08 minutes
+
+Epoch [166/200]
+
+Training..
+Epoch [166/200], Step [100/372], Loss: 0.0001
+Epoch [166/200], Step [200/372], Loss: 0.0001
+Epoch [166/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 166 is 0.0002
+Validation loss for epoch 166 is 0.0946
+Epoch 166 took 0.08 minutes
+
+Epoch [167/200]
+
+Training..
+Epoch [167/200], Step [100/372], Loss: 0.0001
+Epoch [167/200], Step [200/372], Loss: 0.0001
+Epoch [167/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 167 is 0.0020
+Validation loss for epoch 167 is 0.0249
+Epoch 167 took 0.09 minutes
+
+Epoch [168/200]
+
+Training..
+Epoch [168/200], Step [100/372], Loss: 0.0159
+Epoch [168/200], Step [200/372], Loss: 0.0113
+Epoch [168/200], Step [300/372], Loss: 0.0131
+
+Validation..
+Training loss for epoch 168 is 0.0121
+Validation loss for epoch 168 is 0.0143
+Epoch 168 took 0.08 minutes
+
+Epoch [169/200]
+
+Training..
+Epoch [169/200], Step [100/372], Loss: 0.0051
+Epoch [169/200], Step [200/372], Loss: 0.0051
+Epoch [169/200], Step [300/372], Loss: 0.0043
+
+Validation..
+Training loss for epoch 169 is 0.0039
+Validation loss for epoch 169 is 0.0312
+Epoch 169 took 0.09 minutes
+
+Epoch [170/200]
+
+Training..
+Epoch [170/200], Step [100/372], Loss: 0.0023
+Epoch [170/200], Step [200/372], Loss: 0.0023
+Epoch [170/200], Step [300/372], Loss: 0.0020
+
+Validation..
+Training loss for epoch 170 is 0.0021
+Validation loss for epoch 170 is 0.0340
+Epoch 170 took 0.09 minutes
+
+Epoch [171/200]
+
+Training..
+Epoch [171/200], Step [100/372], Loss: 0.0013
+Epoch [171/200], Step [200/372], Loss: 0.0015
+Epoch [171/200], Step [300/372], Loss: 0.0017
+
+Validation..
+Training loss for epoch 171 is 0.0017
+Validation loss for epoch 171 is 0.0939
+Epoch 171 took 0.08 minutes
+
+Epoch [172/200]
+
+Training..
+Epoch [172/200], Step [100/372], Loss: 0.0010
+Epoch [172/200], Step [200/372], Loss: 0.0008
+Epoch [172/200], Step [300/372], Loss: 0.0009
+
+Validation..
+Training loss for epoch 172 is 0.0009
+Validation loss for epoch 172 is 0.0522
+Epoch 172 took 0.08 minutes
+
+Epoch [173/200]
+
+Training..
+Epoch [173/200], Step [100/372], Loss: 0.0004
+Epoch [173/200], Step [200/372], Loss: 0.0005
+Epoch [173/200], Step [300/372], Loss: 0.0006
+
+Validation..
+Training loss for epoch 173 is 0.0008
+Validation loss for epoch 173 is 0.0601
+Epoch 173 took 0.09 minutes
+
+Epoch [174/200]
+
+Training..
+Epoch [174/200], Step [100/372], Loss: 0.0034
+Epoch [174/200], Step [200/372], Loss: 0.0029
+Epoch [174/200], Step [300/372], Loss: 0.0024
+
+Validation..
+Training loss for epoch 174 is 0.0027
+Validation loss for epoch 174 is 0.0367
+Epoch 174 took 0.09 minutes
+
+Epoch [175/200]
+
+Training..
+Epoch [175/200], Step [100/372], Loss: 0.0012
+Epoch [175/200], Step [200/372], Loss: 0.0010
+Epoch [175/200], Step [300/372], Loss: 0.0009
+
+Validation..
+Training loss for epoch 175 is 0.0008
+Validation loss for epoch 175 is 0.0526
+Epoch 175 took 0.09 minutes
+
+Epoch [176/200]
+
+Training..
+Epoch [176/200], Step [100/372], Loss: 0.0003
+Epoch [176/200], Step [200/372], Loss: 0.0004
+Epoch [176/200], Step [300/372], Loss: 0.0004
+
+Validation..
+Training loss for epoch 176 is 0.0004
+Validation loss for epoch 176 is 0.0578
+Epoch 176 took 0.09 minutes
+
+Epoch [177/200]
+
+Training..
+Epoch [177/200], Step [100/372], Loss: 0.0003
+Epoch [177/200], Step [200/372], Loss: 0.0002
+Epoch [177/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 177 is 0.0002
+Validation loss for epoch 177 is 0.0662
+Epoch 177 took 0.09 minutes
+
+Epoch [178/200]
+
+Training..
+Epoch [178/200], Step [100/372], Loss: 0.0001
+Epoch [178/200], Step [200/372], Loss: 0.0001
+Epoch [178/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 178 is 0.0003
+Validation loss for epoch 178 is 0.0646
+Epoch 178 took 0.09 minutes
+
+Epoch [179/200]
+
+Training..
+Epoch [179/200], Step [100/372], Loss: 0.0003
+Epoch [179/200], Step [200/372], Loss: 0.0003
+Epoch [179/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 179 is 0.0007
+Validation loss for epoch 179 is 0.0462
+Epoch 179 took 0.08 minutes
+
+Epoch [180/200]
+
+Training..
+Epoch [180/200], Step [100/372], Loss: 0.0172
+Epoch [180/200], Step [200/372], Loss: 0.0139
+Epoch [180/200], Step [300/372], Loss: 0.0133
+
+Validation..
+Training loss for epoch 180 is 0.0118
+Validation loss for epoch 180 is 0.0234
+Epoch 180 took 0.08 minutes
+
+Epoch [181/200]
+
+Training..
+Epoch [181/200], Step [100/372], Loss: 0.0041
+Epoch [181/200], Step [200/372], Loss: 0.0043
+Epoch [181/200], Step [300/372], Loss: 0.0037
+
+Validation..
+Training loss for epoch 181 is 0.0038
+Validation loss for epoch 181 is 0.0172
+Epoch 181 took 0.07 minutes
+
+Epoch [182/200]
+
+Training..
+Epoch [182/200], Step [100/372], Loss: 0.0059
+Epoch [182/200], Step [200/372], Loss: 0.0047
+Epoch [182/200], Step [300/372], Loss: 0.0038
+
+Validation..
+Training loss for epoch 182 is 0.0035
+Validation loss for epoch 182 is 0.0209
+Epoch 182 took 0.09 minutes
+
+Epoch [183/200]
+
+Training..
+Epoch [183/200], Step [100/372], Loss: 0.0018
+Epoch [183/200], Step [200/372], Loss: 0.0016
+Epoch [183/200], Step [300/372], Loss: 0.0015
+
+Validation..
+Training loss for epoch 183 is 0.0013
+Validation loss for epoch 183 is 0.0465
+Epoch 183 took 0.07 minutes
+
+Epoch [184/200]
+
+Training..
+Epoch [184/200], Step [100/372], Loss: 0.0019
+Epoch [184/200], Step [200/372], Loss: 0.0016
+Epoch [184/200], Step [300/372], Loss: 0.0014
+
+Validation..
+Training loss for epoch 184 is 0.0013
+Validation loss for epoch 184 is 0.0502
+Epoch 184 took 0.09 minutes
+
+Epoch [185/200]
+
+Training..
+Epoch [185/200], Step [100/372], Loss: 0.0006
+Epoch [185/200], Step [200/372], Loss: 0.0008
+Epoch [185/200], Step [300/372], Loss: 0.0008
+
+Validation..
+Training loss for epoch 185 is 0.0007
+Validation loss for epoch 185 is 0.0556
+Epoch 185 took 0.09 minutes
+
+Epoch [186/200]
+
+Training..
+Epoch [186/200], Step [100/372], Loss: 0.0006
+Epoch [186/200], Step [200/372], Loss: 0.0005
+Epoch [186/200], Step [300/372], Loss: 0.0005
+
+Validation..
+Training loss for epoch 186 is 0.0004
+Validation loss for epoch 186 is 0.0664
+Epoch 186 took 0.09 minutes
+
+Epoch [187/200]
+
+Training..
+Epoch [187/200], Step [100/372], Loss: 0.0004
+Epoch [187/200], Step [200/372], Loss: 0.0004
+Epoch [187/200], Step [300/372], Loss: 0.0003
+
+Validation..
+Training loss for epoch 187 is 0.0003
+Validation loss for epoch 187 is 0.0689
+Epoch 187 took 0.08 minutes
+
+Epoch [188/200]
+
+Training..
+Epoch [188/200], Step [100/372], Loss: 0.0002
+Epoch [188/200], Step [200/372], Loss: 0.0002
+Epoch [188/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 188 is 0.0003
+Validation loss for epoch 188 is 0.0751
+Epoch 188 took 0.09 minutes
+
+Epoch [189/200]
+
+Training..
+Epoch [189/200], Step [100/372], Loss: 0.0133
+Epoch [189/200], Step [200/372], Loss: 0.0101
+Epoch [189/200], Step [300/372], Loss: 0.0078
+
+Validation..
+Training loss for epoch 189 is 0.0067
+Validation loss for epoch 189 is 0.0378
+Epoch 189 took 0.08 minutes
+
+Epoch [190/200]
+
+Training..
+Epoch [190/200], Step [100/372], Loss: 0.0040
+Epoch [190/200], Step [200/372], Loss: 0.0040
+Epoch [190/200], Step [300/372], Loss: 0.0033
+
+Validation..
+Training loss for epoch 190 is 0.0030
+Validation loss for epoch 190 is 0.0283
+Epoch 190 took 0.08 minutes
+
+Epoch [191/200]
+
+Training..
+Epoch [191/200], Step [100/372], Loss: 0.0008
+Epoch [191/200], Step [200/372], Loss: 0.0008
+Epoch [191/200], Step [300/372], Loss: 0.0008
+
+Validation..
+Training loss for epoch 191 is 0.0010
+Validation loss for epoch 191 is 0.0487
+Epoch 191 took 0.09 minutes
+
+Epoch [192/200]
+
+Training..
+Epoch [192/200], Step [100/372], Loss: 0.0012
+Epoch [192/200], Step [200/372], Loss: 0.0009
+Epoch [192/200], Step [300/372], Loss: 0.0010
+
+Validation..
+Training loss for epoch 192 is 0.0010
+Validation loss for epoch 192 is 0.0477
+Epoch 192 took 0.08 minutes
+
+Epoch [193/200]
+
+Training..
+Epoch [193/200], Step [100/372], Loss: 0.0011
+Epoch [193/200], Step [200/372], Loss: 0.0015
+Epoch [193/200], Step [300/372], Loss: 0.0020
+
+Validation..
+Training loss for epoch 193 is 0.0029
+Validation loss for epoch 193 is 0.0152
+Epoch 193 took 0.09 minutes
+
+Epoch [194/200]
+
+Training..
+Epoch [194/200], Step [100/372], Loss: 0.0025
+Epoch [194/200], Step [200/372], Loss: 0.0020
+Epoch [194/200], Step [300/372], Loss: 0.0016
+
+Validation..
+Training loss for epoch 194 is 0.0015
+Validation loss for epoch 194 is 0.0400
+Epoch 194 took 0.09 minutes
+
+Epoch [195/200]
+
+Training..
+Epoch [195/200], Step [100/372], Loss: 0.0005
+Epoch [195/200], Step [200/372], Loss: 0.0007
+Epoch [195/200], Step [300/372], Loss: 0.0006
+
+Validation..
+Training loss for epoch 195 is 0.0006
+Validation loss for epoch 195 is 0.0433
+Epoch 195 took 0.09 minutes
+
+Epoch [196/200]
+
+Training..
+Epoch [196/200], Step [100/372], Loss: 0.0002
+Epoch [196/200], Step [200/372], Loss: 0.0002
+Epoch [196/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 196 is 0.0003
+Validation loss for epoch 196 is 0.0484
+Epoch 196 took 0.09 minutes
+
+Epoch [197/200]
+
+Training..
+Epoch [197/200], Step [100/372], Loss: 0.0002
+Epoch [197/200], Step [200/372], Loss: 0.0002
+Epoch [197/200], Step [300/372], Loss: 0.0002
+
+Validation..
+Training loss for epoch 197 is 0.0002
+Validation loss for epoch 197 is 0.0591
+Epoch 197 took 0.08 minutes
+
+Epoch [198/200]
+
+Training..
+Epoch [198/200], Step [100/372], Loss: 0.0001
+Epoch [198/200], Step [200/372], Loss: 0.0001
+Epoch [198/200], Step [300/372], Loss: 0.0001
+
+Validation..
+Training loss for epoch 198 is 0.0001
+Validation loss for epoch 198 is 0.0734
+Epoch 198 took 0.09 minutes
+
+Epoch [199/200]
+
+Training..
+Epoch [199/200], Step [100/372], Loss: 0.0001
+Epoch [199/200], Step [200/372], Loss: 0.0001
+Epoch [199/200], Step [300/372], Loss: 0.0001
+
+Validation..
+Training loss for epoch 199 is 0.0001
+Validation loss for epoch 199 is 0.0734
+Epoch 199 took 0.09 minutes
+
+Epoch [200/200]
+
+Training..
+Epoch [200/200], Step [100/372], Loss: 0.0001
+Epoch [200/200], Step [200/372], Loss: 0.0001
+Epoch [200/200], Step [300/372], Loss: 0.0001
+
+Validation..
+Training loss for epoch 200 is 0.0001
+Validation loss for epoch 200 is 0.0746
+Epoch 200 took 0.08 minutes

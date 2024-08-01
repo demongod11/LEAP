@@ -1,0 +1,7 @@
+661
+Evaluating..
+Threshold - 0 tp = 19, fp = 501, tn = 141, fn = 0, Accuracy = 0.24205748865355523
+Threshold - 0.25 tp = 19, fp = 64, tn = 578, fn = 0, Accuracy = 0.903177004538578
+Threshold - 0.5 tp = 19, fp = 52, tn = 590, fn = 0, Accuracy = 0.9213313161875946
+Threshold - 0.75 tp = 19, fp = 38, tn = 604, fn = 0, Accuracy = 0.9425113464447806
+Threshold - 1 tp = 0, fp = 0, tn = 642, fn = 19, Accuracy = 0.9712556732223904
