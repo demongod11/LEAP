@@ -29,6 +29,7 @@ Make sure that that the cudatoolkit version in the gpu matches with the pytorch-
 	│   ├── generate_all_cuts.cpp			# Generates all_cuts.csv from cuts.csv
     |   └── leap_env.yml                    # Dependency file
 
+**Note -** The data folders for ```hyp``` and ```multiplier``` are large in size and hence not uploaded here. You can download them from [here](https://iitgoffice-my.sharepoint.com/:f:/g/personal/r_chigarapally_iitg_ac_in/EjekCNp3SD9KuCc9iRqjD_oBUwOutkQGO-x8ckG3FhG43w?e=bCugCA)
 
 ## ABC
 
