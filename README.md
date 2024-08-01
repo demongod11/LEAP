@@ -31,6 +31,7 @@ Make sure that that the cudatoolkit version in the gpu matches with the pytorch-
 
 **Note -** The data folders for ```hyp``` and ```multiplier``` are large in size and hence not uploaded here. You can download them from [here](https://iitgoffice-my.sharepoint.com/:f:/g/personal/r_chigarapally_iitg_ac_in/EjekCNp3SD9KuCc9iRqjD_oBUwOutkQGO-x8ckG3FhG43w?e=bCugCA)
 
+
 ## ABC
 
 The ```abc``` present in this repository is the modified abc. This abc has 2 extra commands. They are ```generate_nc_info``` and ```selective_map```. The usage of both the commands is specified below - 
