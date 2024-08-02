@@ -70,10 +70,14 @@ Follow the steps mentioned below to train the models on a design (ex. ```square`
 4. Generate *nodes.csv* and *cuts.csv* - ```generate_nc_info -n nodes.csv -c cuts.csv```.
 5. Now perform the ```Dataset Generation``` method as specified in the above section. At the end of this step, a file named ```cut_stats.csv``` should have been generated.
 6. Now execute the ```train_class.py``` file to train the ```Cut Classifier```
-    ```PYTHONUNBUFFERED=1 nohup python train_class.py > train_class_out.log 2> train_class_err.log &```
+    ```
+   	PYTHONUNBUFFERED=1 nohup python train_class.py > train_class_out.log 2> train_class_err.log &
+    ```
     The corresponding logs will be stored in ```train_class_out.log``` and ```train_class_err.log```.
-7. Now execute the ```train_qor.py``` file to train the ```Delay Predictor```
-    ```PYTHONUNBUFFERED=1 nohup python train_qor.py > train_qor_out.log 2> train_qor_err.log &```
+8. Now execute the ```train_qor.py``` file to train the ```Delay Predictor```
+    ```
+   	PYTHONUNBUFFERED=1 nohup python train_qor.py > train_qor_out.log 2> train_qor_err.log &
+    ```
     The corresponding logs will be stored in ```train_qor_out.log``` and ```train_qor_err.log```.
     The model weights for the ```Cut Classifier``` and ```Delay Predictor``` will be stored in ```model_weights/class_model``` and ```model_weights/qor_model``` respectively.
 
@@ -89,16 +93,20 @@ Follow the steps mentioned below to test the models on a design (ex. ```c6288```
 3. Load the design into *abc* and perform structural hashing - ```read ../data/square/square.v;strash```.
 4. Generate *nodes.csv* and *cuts.csv* - ```generate_nc_info -n nodes.csv -c cuts.csv```.
 5. Now execute the ```evaluate_class.py``` file to infer the ```Cut Classifier```
-    ```PYTHONUNBUFFERED=1 nohup python evaluate_class.py > ../data/c6288/evaluate_class_out.log 2> ../data/c6288/evaluate_class_err.log &```    
+    ```
+   	PYTHONUNBUFFERED=1 nohup python evaluate_class.py > ../data/c6288/evaluate_class_out.log 2> ../data/c6288/evaluate_class_err.log &
+    ```    
     The corresponding logs will be stored in *evaluate_class_out.log* and *evaluate_class_err.log*.
-6. Wait till the above process gets completed. After the execution has been completed, a file named *interim_cut_delays.csv* would be generated.
-7. Now execute the ```evaluate_qor.py``` file to infer the ```Delay Predictor```
-    ```PYTHONUNBUFFERED=1 nohup python evaluate_qor.py > ../data/c6288/evaluate_qor_out.log 2> ../data/c6288/evaluate_qor_err.log &```
+7. Wait till the above process gets completed. After the execution has been completed, a file named *interim_cut_delays.csv* would be generated.
+8. Now execute the ```evaluate_qor.py``` file to infer the ```Delay Predictor```
+    ```
+   	PYTHONUNBUFFERED=1 nohup python evaluate_qor.py > ../data/c6288/evaluate_qor_out.log 2> ../data/c6288/evaluate_qor_err.log &
+    ```
     The corresponding logs will be stored in *evaluate_qor_out.log* and *evaluate_qor_err.log*.
-8. Wait till the above process gets completed. After the execution has been completed, a file named *cut_delays.csv* would be generated.
-9. Now execute the ```generate_final_cuts.cpp``` file which has the **Sweep** algorithm implementation. This would generate a ```final_cuts_10.csv``` file.
-10. Now perform selective mapping using this file - ```selective_map -c final_cuts_10.csv -m final_maps_10.csv```.
-11. Get the final area and delay values of this mapping using this command - ```topo;stime```.
+10. Wait till the above process gets completed. After the execution has been completed, a file named *cut_delays.csv* would be generated.
+11. Now execute the ```generate_final_cuts.cpp``` file which has the **Sweep** algorithm implementation. This would generate a ```final_cuts_10.csv``` file.
+12. Now perform selective mapping using this file - ```selective_map -c final_cuts_10.csv -m final_maps_10.csv```.
+13. Get the final area and delay values of this mapping using this command - ```topo;stime```.
 
 
 
