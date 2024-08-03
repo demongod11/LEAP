@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+from matplotlib.font_manager import FontProperties
 
 designs = ['multiplier', 'div', 'rc64b', 'rc256b', 'c7552', 'c6288', 'router', 'voter']
 methods = ['ABC', 'ABC-Unlimited', 'SLAP', 'LEAP']
@@ -61,14 +61,17 @@ bar_width = 0.2
 index = np.arange(len(designs))
 
 for i, method in enumerate(methods):
-    ax.bar(index + i*bar_width, scaled_delays[:, i], bar_width, label=method, color=colors[i])
+    ax.bar(index + i*bar_width, scaled_cuts[:, i], bar_width, label=method, color=colors[i])
 
-ax.set_xlabel('Designs')
-ax.set_ylabel('Delay')
-ax.set_title('Delay Comparison')
+ax.set_xlabel('Designs', fontsize=18, fontweight='bold')
+ax.set_ylabel('Normalised Number of Cuts', fontsize=18, fontweight='bold')
+# ax.set_title('Delay Comparison', fontsize=20, fontweight='bold')
 ax.set_xticks(index + bar_width / 2)
-ax.set_xticklabels(designs)
-ax.legend()
+ax.set_xticklabels(designs, fontsize=16, fontweight='bold')
+font_properties = FontProperties(weight='bold', size=16)
+for label in ax.get_yticklabels():
+    label.set_fontproperties(font_properties)
+ax.legend(fontsize=14)
 
 plt.tight_layout()
-plt.savefig('delay_bar_chart.png', dpi=300)
+plt.savefig('cuts_bar_chart.png', dpi=300)
